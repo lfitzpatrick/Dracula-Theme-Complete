@@ -71,7 +71,7 @@
 	path = slack
 	url = https://github.com/dracula/slack
 [submodule "terminal.app"]
-	path = terminal.app
+	path = terminal
 	url = https://github.com/dracula/terminal.app
 [submodule "visual-studio-code"]
 	path = visual-studio-code
